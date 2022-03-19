@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@grpc/grpc-js": "^1.5.9",
+    "@grpc/proto-loader": "^0.6.9",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "hbs": "^4.2.0",
+    "uuid": "^8.3.2"
+  }
+}
